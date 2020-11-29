@@ -1,0 +1,12 @@
+name: shiny-start
+title: shiny-start
+username:
+account: sreevaddi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3319747
+bundleId: 3919766
+url: https://sreevaddi.shinyapps.io/shiny-start/
+when: 1606674468.52817
+asMultiple: FALSE
+asStatic: FALSE

@@ -3,19 +3,22 @@
     "path": "~/SreeVaddi/sources/github/sreev/all-r/shiny-start/ui.R",
     "project_path": "shiny-start/ui.R",
     "type": "r_source",
-    "hash": "222331674",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1606675154390.0,
     "source_on_save": false,
     "relative_order": 2,
-    "properties": {},
+    "properties": {
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
+    },
     "folds": "",
-    "lastKnownWriteTime": 1606674245,
+    "lastKnownWriteTime": 1606675772,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1606674245,
+    "last_content_update": 1606675772,
     "read_only": false,
     "read_only_alternatives": []
 }
